@@ -1,0 +1,10 @@
+dist/
+*.exe
+data/
+logs/
+.vs/
+.idea/
+*.user
+*.suo
+*.log
+*.tmp
